@@ -4,14 +4,12 @@ Learning Data Structures and Algorithms in C++.
 
 ## Progress
 
-- Arrays ✅
-- Searching ⏳
-- Sorting ⏳
-- Linked Lists ⏳
-- Trees ⏳
-
+- Arrays
+  
 ## Problems Solved
 
-- Pair Sum
-- Best Time to Buy and Sell Stock
+- Two Sum
+- Sigle Number
+- Maximum Subarray
 - Majority Element
+- Best Time To Buy And Sell Stock

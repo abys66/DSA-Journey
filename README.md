@@ -5,6 +5,7 @@ Learning Data Structures and Algorithms in C++.
 ## Progress
 
 - Arrays
+- Strings
   
 ## Problems Solved
 
@@ -14,3 +15,4 @@ Learning Data Structures and Algorithms in C++.
 - Majority Element
 - Best Time To Buy And Sell Stock
 - Two Sum II - Input Array Is Sorted
+- Container With Most Water

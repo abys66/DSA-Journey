@@ -5,7 +5,7 @@ Learning Data Structures and Algorithms in C++.
 ## Problems Solved
 
 - Two Sum
-- Sigle Number
+- Single Number
 - Maximum Subarray
 - Majority Element
 - Best Time To Buy And Sell Stock

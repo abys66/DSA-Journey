@@ -13,3 +13,5 @@ Learning Data Structures and Algorithms in C++.
 - Container With Most Water
 - Valid Palindrome
 - Product Of Array Except Self
+- 3Sum
+  
